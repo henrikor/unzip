@@ -1,3 +1,3 @@
-module git.infosynergi.no/go-modules/unzip
+module github.com:henrikor/unzip
 
 go 1.14
